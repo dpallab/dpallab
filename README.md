@@ -1,4 +1,4 @@
-  <!-- =========================
+<!-- =========================
 ✨ CLEAN HEADER (centered)
 Paste below your current <h1>/<h3> or keep both and compare.
 ========================= -->
@@ -18,16 +18,16 @@ Pick what you like – they’re all image links (safe for GitHub README)
 ========================= -->
 <p align="center">
   <a href="mailto:pallabdas1507@gmail.com"><img src="https://img.shields.io/badge/Email-me-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/pallabdas1507" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://dpallab.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Open-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <img src="https://komarev.com/ghpvc/?username=dpallab&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="views"/>
 </p>
 
 <!-- =========================
-⌨️ TYPING LINE (fun dynamic text)
+⌨️ TYPING LINE (updated with CV details)
 ========================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Tailwind+%7C+TypeScript;Learning+Next.js+and+System+Design;I+turn+ideas+into+clean+UI" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Frontend+Developer+%F0%9F%9A%80;React+%7C+Tailwind+%7C+TypeScript;Exploring+Next.js+%26+System+Design;AI+%26+ML+B.Tech+Student;Passionate+about+Scalable+Web+Apps;Clean+Code+%7C+Fast+Delivery" alt="typing" />
 </p>
 
 <!-- =========================
@@ -35,13 +35,10 @@ Pick what you like – they’re all image links (safe for GitHub README)
 ========================= -->
 <h3 align="left">Connect with me</h3>
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/pallabdas1507" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Pallab%20Das-0a66c2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=flat&logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:pallabdasdev@gmail.com">
+  <a href="mailto:pallabdas1507@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-EB4432?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -66,11 +63,11 @@ Replace URLs, titles, and descriptions with your projects.
 <tr>
   <td>
     <a href="https://github.com/dpallab/hydro-world"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dpallab&repo=hydro-world" alt="Hydro World" /></a>
-    <p><b>Hydro World</b> – E‑commerce with Firebase cart & React.</p>
+    <p><b>Hydro World</b> – E-commerce with Firebase cart & React.</p>
   </td>
   <td>
     <a href="https://github.com/dpallab/handicraft-store"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dpallab&repo=handicraft-store" alt="Handicraft Store" /></a>
-    <p><b>Handicraft Store</b> – Multi‑image upload, dashboard, auth.</p>
+    <p><b>Handicraft Store</b> – Multi-image upload, dashboard, auth.</p>
   </td>
 </tr>
 </table>
@@ -102,7 +99,7 @@ Replace URLs, titles, and descriptions with your projects.
     <li>🌱 Currently learning <b>React.js</b>, exploring <b>Next.js</b>.</li>
     <li>🚀 I like building <b>minimal, fast, accessible</b> web apps.</li>
     <li>🧪 Favorite stack: <b>React + Tailwind + Firebase</b>.</li>
-    <li>🎯 2025 goals: ship 3 open‑source components & publish a case study.</li>
+    <li>🎯 2025 goals: ship 3 open-source components & publish a case study.</li>
   </ul>
 </details>
 
@@ -126,12 +123,12 @@ Replace URLs, titles, and descriptions with your projects.
 ========================= -->
 <p align="center">
   <i>“Small, simple, fast – ship it.”</i><br/>
-  <a href="mailto:pallabdasdev@gmail.com">Let’s collaborate →</a>
+  <a href="mailto:pallabdas1507@gmail.com">Let’s collaborate →</a>
 </p>
 
 <!-- =========================
 📌 TIPS
 - Replace placeholder links (LinkedIn, Twitter, Portfolio).
-- You can keep your original sections; these are add‑ons.
+- You can keep your original sections; these are add-ons.
 - GitHub ignores external CSS/JS, so images & plain HTML/MD are best.
-========================= -->
+========================= -->  
