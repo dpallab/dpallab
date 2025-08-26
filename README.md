@@ -19,30 +19,19 @@ Pick what you like – they’re all image links (safe for GitHub README)
 <p align="center">
   <a href="mailto:pallabdas1507@gmail.com"><img src="https://img.shields.io/badge/Email-me-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/pallabdas1507/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://dpallab.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Open-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <img src="https://komarev.com/ghpvc/?username=dpallab&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="views"/>
+  <a href="https://dpallab.github.io" target="_blank"><img src="https://img.shields.io/badge/Instagram-Open-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
 
 <!-- =========================
 ⌨️ TYPING LINE (updated with CV details)
 ========================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Frontend+Developer+%F0%9F%9A%80;React+%7C+Tailwind+%7C+TypeScript;Exploring+Next.js+%26+System+Design;AI+%26+ML+B.Tech+Student;Passionate+about+Scalable+Web+Apps;Clean+Code+%7C+Fast+Delivery" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Full Stack+Developer+%F0%9F%9A%80;React+%7C+Tailwind+%7C+TypeScript;Exploring+Next.js+%26+System+Design;AI+%26+ML+B.Tech+Student;Passionate+about+Scalable+Web+Apps;Clean+Code+%7C+Fast+Delivery" alt="typing" />
 </p>
 
 <!-- =========================
 🔗 CONNECT WITH ME (icons)
 ========================= -->
-<h3 align="left">Connect with me</h3>
-<p>
-  <a href="https://www.linkedin.com/in/pallabdas1507" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Pallab%20Das-0a66c2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:pallabdas1507@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EB4432?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 <!-- =========================
 🧰 SKILLS – CLEAN GRID
 Swap/add icons as you like. All are SVGs, no scripts.
