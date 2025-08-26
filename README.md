@@ -1,4 +1,4 @@
-<!-- =========================
+  <!-- =========================
 ✨ CLEAN HEADER (centered)
 Paste below your current <h1>/<h3> or keep both and compare.
 ========================= -->
@@ -17,7 +17,7 @@ Paste below your current <h1>/<h3> or keep both and compare.
 Pick what you like – they’re all image links (safe for GitHub README)
 ========================= -->
 <p align="center">
-  <a href="mailto:pallabdasdev@gmail.com"><img src="https://img.shields.io/badge/Email-me-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:pallabdas1507@gmail.com"><img src="https://img.shields.io/badge/Email-me-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://dpallab.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Open-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <img src="https://komarev.com/ghpvc/?username=dpallab&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="views"/>
