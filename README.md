@@ -20,7 +20,7 @@
  TYPING LINE (updated with CV details)
 ========================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Full Stack+Developer+%F0%9F%9A%80;React+%7C+Tailwind+%7C+TypeScript;Exploring+Next.js+%26+System+Design;AI+%26+ML+B.Tech+Student;Passionate+about+Scalable+Web+Apps;Clean+Code+%7C+Fast+Delivery" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Frontend+Developer+%F0%9F%9A%80;React+%7C+Tailwind+%7C+TypeScript;Exploring+Next.js+%26+System+Design;AI+%26+ML+B.Tech+Student;Passionate+about+Scalable+Web+Apps;Clean+Code+%7C+Fast+Delivery" alt="typing" />
 </p>
 
 
